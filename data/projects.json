@@ -15,6 +15,15 @@
           "tul_email": "roman.spanek@tul.cz"
         }
       ]
+    },
+    {
+        "name": "Bookstore",
+        "repoUrl": "https://github.com/matejhauschwitz/PSI",
+        "members": [
+          "Jiří Šeps",
+          "Matěj Hauschwitz",
+          "Vojtěch Gerö"
+        ]
     }
   ]
 }
