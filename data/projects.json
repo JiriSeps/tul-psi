@@ -20,9 +20,21 @@
         "project_name": "Bookstore",
         "github_repo_url": "https://github.com/matejhauschwitz/PSI",
         "members": [
-          "Jiří Šeps",
-          "Matěj Hauschwitz",
-          "Vojtěch Gerö"
+          {
+          "name": "Jiří Šeps",
+          "github_alias": "JiriSeps",
+          "tul_email": "jiri.seps@tul.cz"
+          },
+          {
+          "name": "Matěj Hauschwitz",
+          "github_alias": "matejhauschwitz",
+          "tul_email": "matej.hauschwitz@tul.cz"
+          },
+          {
+          "name": "Vojtěch Gerö",
+          "github_alias": "VojtechGero",
+          "tul_email": "vojtech.gero@tul.cz"
+          }
         ]
     }
   ]
