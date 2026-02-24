@@ -17,8 +17,8 @@
       ]
     },
     {
-        "name": "Bookstore",
-        "repoUrl": "https://github.com/matejhauschwitz/PSI",
+        "project_name": "Bookstore",
+        "github_repo_url": "https://github.com/matejhauschwitz/PSI",
         "members": [
           "Jiří Šeps",
           "Matěj Hauschwitz",
